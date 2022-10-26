@@ -7,7 +7,7 @@
 * [Contact](#contact)
 
 ## General info
-Use of dictionary-based learning along with 4th order Runge-Kutta to for nonlinear system identification.
+Use of dictionary-based learning along with 4th order Runge-Kutta for nonlinear system identification.
 	
 ## Technologies
 Use the package manager [pip](https://pip.pypa.io/en/stable/) and the `requirements.txt` to install the necessary libraries
