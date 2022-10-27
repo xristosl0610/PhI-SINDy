@@ -18,7 +18,7 @@ class normalized_data(nn.Module):
         
 
 def print_original_noise_signal(x_original,x_noise):
-
+ 
     plot_kws = dict(linewidth=2)
     fig, axs = plt.subplots(1, 1, figsize=(6, 4))
     axs.plot(x_noise[0,:, 0], x_noise[0,:, 1], "ko", label="$Noisy data$")
