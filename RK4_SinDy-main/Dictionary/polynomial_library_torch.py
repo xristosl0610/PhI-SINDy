@@ -124,7 +124,7 @@ class PolynomialLibrary(PolynomialFeatures, BaseFeatureLibrary):
         ----------
         input_features : list of string, length n_features, optional
             String names for input features if available. By default,
-            "x0", "x1", ... "xn_features" is used.
+            "x0", "x1", ... "xn_features" is  used.
 
         Returns
         -------

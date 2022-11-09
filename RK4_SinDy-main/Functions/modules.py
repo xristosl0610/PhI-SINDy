@@ -76,7 +76,7 @@ def rk4th_onestep(model, x, t=0, timestep=1e-2):
 def rk4th_onestep_SparseId(x, library, LibsCoeffs, t=0, timestep=1e-2):
 
     d1 = library.transform_torch(x)
-    k1 = LibsCoeffs(d1)
+    k1 = LibsCoeffs(d1) 
 
     d2 = library.transform_torch(x + 0.5 * timestep * k1)
     k2 = LibsCoeffs(d2)
