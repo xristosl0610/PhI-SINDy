@@ -19,16 +19,27 @@ pip install -r requirements.txt
 ## References
 [1]. P. Goyal, and P. Benner, [Discovery of Nonlinear Dynamical Systems using a Runge-Kutta Inspired Dictionary-based Sparse Regression Approach](https://arxiv.org/abs/2105.04869), arXiv:2105.04869, 2021.
 <details><summary>BibTeX</summary><pre>
-@TechReport{morGoyB21a,
-  author =       {Goyal, P. and Benner, P.},
-  title =        {Discovery of Nonlinear Dynamical Systems using a {R}unge-{K}utta Inspired Dictionary-Based Sparse Regression Approach},
-  institution =  {arXiv},
-  year =         2021,
-  type =         {e-print},
-  number =       {2105.04869},
-  url =          {https://arxiv.org/abs/2105.04869},
-  note =         {cs.LG}
+@article{goyal2022discovery,
+  title={Discovery of nonlinear dynamical systems using a Runge--Kutta inspired dictionary-based sparse regression approach},
+  author={Goyal, Pawan and Benner, Peter},
+  journal={Proceedings of the Royal Society A},
+  volume={478},
+  number={2262},
+  pages={20210883},
+  year={2022},
+  publisher={The Royal Society}
 }
+@article{brunton2016discovering,
+  title={Discovering governing equations from data by sparse identification of nonlinear dynamical systems},
+  author={Brunton, Steven L and Proctor, Joshua L and Kutz, J Nathan},
+  journal={Proceedings of the national academy of sciences},
+  volume={113},
+  number={15},
+  pages={3932--3937},
+  year={2016},
+  publisher={National Acad Sciences}
+}
+
 </pre></details>
 
 ## Contact
