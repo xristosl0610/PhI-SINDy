@@ -1,4 +1,7 @@
-# Physics Informed Sparse Identification of Nonlinear Dynamics (PhI-SINDy)
+# PhI-SINDy
+---
+Physics Informed Sparse Identification of Nonlinear Dynamics
+
 
 ## Table of contents
 * [General info](#general-info)
