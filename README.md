@@ -1,4 +1,4 @@
-# Nonlinear System Identification
+# Physics Informed Sparse Identification of Nonlinear Dynamics (PhI-SINDy)
 
 ## Table of contents
 * [General info](#general-info)
@@ -7,7 +7,7 @@
 * [Contact](#contact)
 
 ## General info
-Use of dictionary-based learning along with 4th order Runge-Kutta for nonlinear system identification.
+Framework that builds on RK4-SINDy [1], including physics knowledge in the form of three different biases. Its goal is the identification of nonsmooth nonlinear systems where discontinuous functions contribute. The core application for the time being is the identification of friction forces in a dynamical (SDOF or MDOF) system. 
 	
 ## Technologies
 Use the package manager [pip](https://pip.pypa.io/en/stable/) and the `requirements.txt` to install the necessary libraries
