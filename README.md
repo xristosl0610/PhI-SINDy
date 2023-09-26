@@ -5,6 +5,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Publication](#publicaiton)
 * [Dependencies](#dependencies)
 * [References](#references)
 * [Contact](#contact)
