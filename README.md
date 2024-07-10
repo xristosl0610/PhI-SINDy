@@ -5,6 +5,7 @@
 [![Paper](https://img.shields.io/badge/paper-available-blue)](https://doi.org/10.1007/s11071-024-09652-2)
 [![Issues](https://img.shields.io/github/issues/xristosl0610/PhI-SINDy)](https://github.com/xristosl0610/PhI-SINDy/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/xristosl0610/PhI-SINDy)](https://github.com/xristosl0610/PhI-SINDy/pulls)
+[![Downloads](https://img.shields.io/badge/downloads-available-brightgreen)](https://github.com/xristosl0610/PhI-SINDy/releases)
 
 </div>
 
