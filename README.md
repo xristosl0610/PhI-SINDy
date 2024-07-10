@@ -1,5 +1,12 @@
 # PhI-SINDy
 ---
+<div align="center" markdown="1">
+
+[![Issues](https://img.shields.io/github/issues/xristosl0610/PhI-SINDy)](https://github.com/xristosl0610/PhI-SINDy/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/xristosl0610/PhI-SINDy)](https://github.com/xristosl0610/PhI-SINDy/pulls)
+
+</div>
+
 # Physics Informed Sparse Identification of Nonlinear Dynamics
 
 
