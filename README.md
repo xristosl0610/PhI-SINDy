@@ -2,6 +2,7 @@
 ---
 <div align="center" markdown="1">
 
+[![Paper](https://img.shields.io/badge/paper-available-blue)](https://doi.org/10.1007/s11071-024-09652-2)
 [![Issues](https://img.shields.io/github/issues/xristosl0610/PhI-SINDy)](https://github.com/xristosl0610/PhI-SINDy/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/xristosl0610/PhI-SINDy)](https://github.com/xristosl0610/PhI-SINDy/pulls)
 
@@ -21,7 +22,7 @@
 Framework that builds on RK4-SINDy [1], including physics knowledge in the form of three different biases. Its goal is the identification of nonsmooth nonlinear systems where discontinuous functions contribute. The core application for the time being is the identification of friction forces in a dynamical (SDOF or MDOF) system. 
 
 ## Publication
-A thorough step-by-step presentation of PhI-SINDy can be found in [Physics Enhanced Sparse Identification of Dynamical Systems with Discontinuous Nonlinearities](https://www.researchsquare.com/article/rs-3116800/v1)
+A thorough step-by-step presentation of PhI-SINDy can be found in [Physics Enhanced Sparse Identification of Dynamical Systems with Discontinuous Nonlinearities](https://doi.org/10.1007/s11071-024-09652-2)
 
 ## Technologies
 Use the package manager [pip](https://pip.pypa.io/en/stable/) and the `requirements.txt` to install the necessary libraries
