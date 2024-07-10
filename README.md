@@ -1,4 +1,5 @@
 # PhI-SINDy
+# Physics Informed Sparse Identification of Nonlinear Dynamics
 ---
 <div align="center" markdown="1">
 
@@ -8,9 +9,6 @@
 [![Downloads](https://img.shields.io/badge/downloads-available-brightgreen)](https://github.com/xristosl0610/PhI-SINDy/releases)
 
 </div>
-
-# Physics Informed Sparse Identification of Nonlinear Dynamics
-
 
 ## Table of contents
 * [General info](#general-info)
